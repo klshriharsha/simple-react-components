@@ -24,10 +24,10 @@ const Template: ComponentStory<typeof Button> = ({ children, ...args }) => (
             Next
         </Button>
         <Button {...args} size="lg">
-            Small {children}
+            Large {children}
         </Button>
         <Button {...args} size="sm">
-            Large {children}
+            Small {children}
         </Button>
     </div>
 )
