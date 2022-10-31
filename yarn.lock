@@ -14311,9 +14311,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"simple-button@workspace:.":
+"simple-react-components@workspace:.":
   version: 0.0.0-use.local
-  resolution: "simple-button@workspace:."
+  resolution: "simple-react-components@workspace:."
   dependencies:
     "@babel/core": ^7.19.6
     "@commitlint/cli": ^17.1.2
